@@ -25,6 +25,8 @@ Python bot for monitoring Ethereum (ETH) price and sending Telegram alerts.
 pip install -r requirements.txt
 python bot_eth.py
 
+```
+
 ## Screenshot
 
 ![Project Screenshot](project.png)
